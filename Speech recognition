@@ -1,0 +1,7 @@
+In this Project user can search his/her favourite video in YouTube:
+How it works
+First It will show text : "I am Pawan's Jarvis how may i help you ?"
+After that User has to speak "Jarvis" Play my video from youtube
+Note :user has to include 'Jarvis' in the speech then only it will work
+Then it will show : 'Which Video would you like to see sir !!'
+Then user has speak video name that he/she want to see in youtube
